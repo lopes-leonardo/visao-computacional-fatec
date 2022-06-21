@@ -3,7 +3,7 @@ imutils==0.5.3
 joblib==0.14.0
 lensfun==0.3.2
 lightdm-gtk-greeter-settings==1.2.2
-numpy==1.17.3
+numpy==1.22.0
 opencv-python==4.1.1.26
 PyGObject==3.34.0
 scikit-learn==0.21.3

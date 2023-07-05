@@ -1,6 +1,6 @@
 btrfsutil==1.1.1
 imutils==0.5.3
-joblib==0.14.0
+joblib==1.1.1
 lensfun==0.3.2
 lightdm-gtk-greeter-settings==1.2.2
 numpy==1.17.3
